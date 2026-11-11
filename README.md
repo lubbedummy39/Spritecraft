@@ -198,4 +198,4 @@ This repository serves as the official landing page for Spritecraft. The softwar
 **Get the most recent version of Spritecraft today!**
 
 ---
-**Last updated:** 2026-11-10 22:42:05 UTC
+**Last updated:** 2026-11-11 02:27:28 UTC
